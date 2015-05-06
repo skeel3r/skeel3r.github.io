@@ -49,6 +49,12 @@ p#projlist {
     font-size: 54px;
     word-spacing: 20px;
 }
+p#align {
+    font-size: 54px;
+    word-spacing: 20px;
+    text-align: center;
+}
+
 p#slogan {
     font-size: 20px;
 }
