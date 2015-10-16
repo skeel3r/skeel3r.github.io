@@ -58,4 +58,8 @@ p#align {
 p#slogan {
     font-size: 20px;
 }
-
+.hiddenlink {
+    color: #000; /* same color as the surrounding text */
+      text-decoration: none; /* to remove the underline */
+        cursor: text; /* to make the cursor stay as a text cursor, not the hand */
+}
