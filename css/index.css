@@ -70,3 +70,9 @@ p#slogan {
     margin: 5px;
     border-radius: 5px;
 }
+.titlelink {
+    color: #666 !important;
+    text-decoration: none;
+
+}
+
